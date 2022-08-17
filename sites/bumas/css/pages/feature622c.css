@@ -1,0 +1,518 @@
+/*#region Trang tinh nang */
+/*#region Chung */
+.feature {
+    font-family: GoogleSans, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.42857143;
+    color: #011239;
+}
+
+.f-content {
+    position: relative;
+    z-index: 1;
+}
+
+.f-title {
+    font-family: GoogleSans Bold, Arial, sans-serif;
+    font-size: 32px;
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+.f-subtitle {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.f-slider {
+    margin: 0 -10px;
+}
+
+.f-box {
+    margin: 10px;
+    padding: 40px 25px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, .05);
+    overflow: hidden;
+}
+
+.f-image {
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+    .f-image img {
+        border: 1px solid #F0F7EE;
+        box-shadow: 1px 1px 5px rgba(0, 0, 0, .05);
+    }
+
+.f-index {
+    display: inline-flex;
+    padding-bottom: 50px;
+}
+
+    .f-index span {
+        background: linear-gradient(42.22deg, #084b05 0%, #15972c 100%);
+        font-family: GoogleSans Medium, Arial, sans-serif;
+        font-size: 14px;
+        color: #FFF;
+        padding: 3px 18px;
+        border-radius: 15px;
+        overflow: hidden;
+    }
+
+.f-name {
+    font-family: GoogleSans Medium, Arial, sans-serif;
+    font-size: 18px;
+    text-transform: uppercase;
+    text-align: justify;
+    padding-bottom: 20px;
+}
+
+.f-description {
+    text-align: justify;
+}
+/*#endregion*/
+
+/*#region Banner */
+.f-banner {
+}
+
+.fb-content {
+}
+
+.fbc-left {
+}
+
+.fb-title {
+    color: #43a047;
+    font-size: 16px;
+    text-transform: uppercase;
+    padding-bottom: 10px;
+}
+
+    .fb-title.fb-name {
+        font-family: GoogleSans Bold, Arial, sans-serif;
+        font-size: 56px;
+        line-height: 56px;
+        text-transform: none;
+        padding-bottom: 25px;
+    }
+
+.img-hidden {
+    display: none;
+}
+
+.fb-subtitle {
+    text-align: justify;
+    padding-bottom: 40px;
+}
+
+.fb-flex {
+    display: flex;
+}
+
+.fb-button {
+    padding-right: 15px;
+}
+
+    .fb-button a {
+        font-family: GoogleSans Medium, Arial, sans-serif;
+        font-size: 16px;
+        color: #FFF;
+        text-transform: uppercase;
+        padding: 10px 35px;
+        border-radius: 25px;
+        overflow: hidden;
+        display: inline-flex;
+        background-color: #43A047;
+    }
+
+.fbc-right {
+}
+
+    .fbc-right img {
+        margin: 0 auto;
+    }
+
+.f-background {
+    position: absolute;
+}
+
+    .f-background img {
+    }
+
+.fbb-left {
+    top: -395px;
+    left: -550px;
+}
+
+.fbb-right {
+    top: -330px;
+    right: -550px;
+}
+
+.fb-video {
+}
+
+    .fb-video a {
+        background: url(../../images/pages/feature/ic-play.svg) no-repeat left center;
+        padding-left: 50px;
+        text-transform: uppercase;
+        line-height: 42px;
+        height: 42px;
+        display: block;
+        font-family: GoogleSans Medium, Arial, sans-serif;
+        font-size: 14px;
+        color: #43A047;
+    }
+/*#endregion*/
+/*#region Đon vi truc thuoc */
+.f-subsidiaries {
+    padding: 60px 0 50px;
+    background: #F2F8F1;
+}
+
+.fss-box {
+    background: #FFF;
+}
+
+.fss-left {
+    bottom: -490px;
+    left: -460px;
+}
+
+.fss-right {
+    bottom: -550px;
+    right: -540px;
+}
+/*#endregion*/
+
+/*#region Đon vi chu quan */
+.f-subdivisions {
+    padding: 60px 0 50px;
+}
+
+.fsd-box {
+    background: #F0F7EE;
+}
+
+.fsd-left {
+    bottom: -210px;
+    right: -340px;
+}
+/*#endregion*/
+
+/*#region Custom Owl Carousel */
+.feature .owl-item {
+    position: relative;
+}
+
+.feature .owl-nav {
+    position: absolute;
+    width: 100%;
+    top: 45%;
+    margin: 0;
+}
+
+.feature .owl-dots {
+    width: 100%;
+    padding-top: 30px;
+    position: absolute;
+    justify-content: center;
+}
+
+.feature .owl-theme .owl-nav.disabled + .owl-dots {
+    margin-top: 0;
+}
+
+.feature .owl-prev {
+    position: absolute;
+    left: -90px;
+}
+
+.feature .owl-next {
+    position: absolute;
+    right: -90px;
+}
+
+.feature .owl-dots .owl-dot {
+    outline: none;
+}
+
+    .feature .owl-dots .owl-dot span {
+        background: #fff;
+        border: solid #ddd 1px;
+        width: 14px;
+        height: 14px;
+        margin: 0 5px;
+    }
+
+    .feature .owl-dots .owl-dot.active span {
+        background: #fff;
+        background: #15972c;
+        border: solid #15972c 1px;
+    }
+
+.feature .owl-nav .owl-prev {
+    outline: none;
+}
+
+    .feature .owl-nav .owl-prev:hover {
+        opacity: 0.85;
+    }
+
+    .feature .owl-nav .owl-prev img {
+        border-radius: 50%;
+        box-shadow: 0 1px 5px 1px #DDD;
+    }
+
+    .feature .owl-nav .owl-prev:hover {
+        background: transparent;
+    }
+
+.feature .owl-nav .owl-next {
+    outline: none;
+}
+
+    .feature .owl-nav .owl-next:hover {
+        opacity: 0.85;
+    }
+
+    .feature .owl-nav .owl-next img {
+        border-radius: 50%;
+        box-shadow: 0 1px 5px 1px #DDD;
+    }
+
+    .feature .owl-nav .owl-next:hover {
+        background: transparent;
+    }
+
+.feature .carousel-inner {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+}
+
+.feature .owl-theme .owl-dots .owl-dot:hover span {
+    border: solid 1px #15972c;
+    background: #15972c;
+}
+
+.feature .owl-theme .owl-dots .owl-dot.active:hover span {
+    border: solid 1px #15972c;
+    background: #15972c;
+}
+/*#endregion*/
+
+/*#region Responsive */
+@media (min-width: 980px) {
+    /*#region Banner */
+    .fb-content {
+        height: 600px;
+        display: flex;
+        align-items: center;
+    }
+
+    .fbc-left {
+        width: 45%;
+        padding-right: 30px;
+    }
+
+    .fbc-right {
+        width: 55%;
+    }
+    /*#endregion*/
+
+    .d-flex {
+        display: flex;
+    }
+
+    .f-image {
+        order: 1;
+        width: 70%;
+    }
+
+    .f-box-content {
+        width: 30%;
+        order: 0;
+        padding-right: 25px;
+    }
+}
+
+@media (max-width: 1440px) {
+    /*#region Banner */
+    .fbb-left {
+        left: -500px;
+    }
+
+    .fbb-right {
+        right: -500px;
+    }
+    /*#endregion*/
+
+    /*#region Đon vi truc thuoc */
+    .fss-left {
+        left: -410px;
+    }
+
+    .fss-right {
+        right: -490px;
+    }
+    /*#endregion*/
+
+    /*#region Đon vi chu quan */
+    .fsd-left {
+        right: -290px;
+    }
+    /*#endregion*/
+}
+
+@media (max-width: 1099px) {
+    .f-subsidiaries {
+        padding: 60px 0 110px;
+    }
+
+    .f-subdivisions {
+        padding: 60px 0 110px;
+    }
+}
+
+@media (max-width: 979px) {
+    /*#region Chung */
+    .f-background {
+        display: none;
+    }
+
+    .f-image {
+        padding-bottom: 30px;
+    }
+
+    .f-index {
+        padding-bottom: 20px;
+    }
+
+    .f-name {
+        padding-bottom: 10px;
+    }
+    /*#endregion*/
+
+    /*#region Banner */
+    .fb-content {
+        padding: 40px 0
+    }
+
+    .fbc-left {
+        max-width: 400px;
+        margin: 0 auto;
+        text-align: center;
+        padding-bottom: 35px;
+    }
+
+    .fb-subtitle {
+        text-align: center;
+        padding-bottom: 30px;
+    }
+
+    .fbc-right {
+        width: 70%;
+        margin: 0 auto;
+    }
+
+    .fb-flex {
+        justify-content: center;
+    }
+    /*#endregion*/
+
+    /*#region Don vi truc thuoc */
+    .f-subsidiaries {
+        padding: 40px 0 80px 0;
+    }
+    /*#endregion*/
+
+    /*#region Don vi chu quan */
+    .f-subdivisions {
+        padding: 40px 0 80px 0;
+    }
+    /*#endregion*/
+
+    /*#region Custom Owl Carousel */
+    .feature .owl-dots {
+        padding-top: 20px;
+    }
+    /*#endregion*/
+}
+
+@media (max-width: 767px) {
+    .slider {
+        display: block !important
+    }
+    /*#region Chung */
+    .f-title {
+        font-size: 24px;
+    }
+
+    .f-subtitle br {
+        display: none;
+    }
+    /*#endregion*/
+
+    /*#region Banner */
+    .fb-title {
+        font-size: 12px;
+    }
+
+        .fb-title.fb-name {
+            font-size: 42px;
+            line-height: 42px;
+        }
+
+    .fb-button a {
+        font-size: 16px;
+        padding: 10px 20px;
+        margin-right: 15px;
+    }
+
+    .fbc-right {
+        display: none;
+    }
+
+    .fb-button {
+        padding-right: 0;
+    }
+
+    .img-hidden {
+        display: block;
+        padding-bottom: 20px;
+    }
+
+    .fb-video a {
+        color: #43A047;
+        padding: 10px 19px;
+        border-radius: 25px;
+        overflow: hidden;
+        display: inline-flex;
+        background: #FFF;
+        border: solid 1px #43A047;
+        line-height: unset;
+        height: unset;
+    }
+
+    .fbc-left {
+        padding-bottom: 0;
+    }
+    /*#endregion*/
+}
+
+@media (max-width: 360px) {
+    .fb-flex {
+        display: grid;
+    }
+
+    .fb-button a {
+        display: block;
+        margin: 0 0 15px;
+    }
+}
+/*#endregion*/
+/*#endregion*/

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="54.413" height="50.443" viewBox="0 0 54.413 50.443">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.256" y1="0.807" x2="1.1" y2="0.262" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#084b05"/>
+      <stop offset="1" stop-color="#15972c"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_40763" data-name="Group 40763" transform="translate(-933 -3466)">
+    <path id="Path_71402" data-name="Path 71402" d="M473.753,180H452.8a1.853,1.853,0,0,0-1.605.927l-10.477,18.146a1.854,1.854,0,0,0,0,1.854l10.477,18.146A1.853,1.853,0,0,0,452.8,220h20.954a1.853,1.853,0,0,0,1.605-.927l10.477-18.146a1.854,1.854,0,0,0,0-1.854l-10.477-18.146A1.853,1.853,0,0,0,473.753,180Z" transform="matrix(0.966, -0.259, 0.259, 0.966, 460.952, 3417.941)" fill="url(#linear-gradient)"/>
+    <g id="Group_40056" data-name="Group 40056" transform="translate(-1433.337 -2740.337)">
+      <circle id="Ellipse_3936" data-name="Ellipse 3936" cx="4" cy="4" r="4" transform="translate(2384.337 6232.337)" fill="#b7efb7"/>
+      <circle id="Ellipse_3938" data-name="Ellipse 3938" cx="4" cy="4" r="4" transform="translate(2384.337 6222.337)" fill="#b7efb7"/>
+      <circle id="Ellipse_3937" data-name="Ellipse 3937" cx="4" cy="4" r="4" transform="translate(2394.337 6232.337)" fill="#b7efb7"/>
+      <rect id="Rectangle_18527" data-name="Rectangle 18527" width="8" height="8" transform="translate(2394.337 6222.337)" fill="#f5f5f5"/>
+    </g>
+  </g>
+</svg>

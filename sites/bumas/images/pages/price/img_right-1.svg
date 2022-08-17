@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="539" height="649" viewBox="0 0 539 649">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_19237" data-name="Rectangle 19237" width="539" height="649" transform="translate(8498 -1037)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#72cc72"/>
+      <stop offset="1" stop-color="#348044"/>
+    </linearGradient>
+  </defs>
+  <g id="Mask_Group_15928" data-name="Mask Group 15928" transform="translate(-8498 1037)" clip-path="url(#clip-path)">
+    <path id="Path_72986" data-name="Path 72986" d="M371.322,0H137.56a20.678,20.678,0,0,0-17.908,10.339L2.77,212.783a20.679,20.679,0,0,0,0,20.679L119.652,435.906a20.678,20.678,0,0,0,17.908,10.339H371.322a20.678,20.678,0,0,0,17.908-10.339L506.111,233.462a20.678,20.678,0,0,0,0-20.678L389.23,10.339A20.678,20.678,0,0,0,371.322,0Z" transform="matrix(-0.208, -0.978, 0.978, -0.208, 8588.105, -476.631)" fill="#43a047" opacity="0.05"/>
+    <path id="Path_72987" data-name="Path 72987" d="M204.72,0H75.841a11.4,11.4,0,0,0-9.873,5.7L1.527,117.313a11.4,11.4,0,0,0,0,11.4l64.44,111.613a11.4,11.4,0,0,0,9.873,5.7H204.72a11.4,11.4,0,0,0,9.873-5.7l64.44-111.613a11.4,11.4,0,0,0,0-11.4L214.593,5.7A11.4,11.4,0,0,0,204.72,0Z" transform="translate(9002.561 -387.693) rotate(-172)" opacity="0.35" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

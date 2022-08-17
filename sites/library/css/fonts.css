@@ -1,0 +1,97 @@
+/*#region Fonts */
+@font-face {
+    font-family: 'GoogleSans';
+    src: url('../fonts/GoogleSans-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GoogleSans Italic';
+    src: url('../fonts/GoogleSans-Italic.ttf');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GoogleSans Thin';
+    src: url('../fonts/GoogleSans-Thin.ttf');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GoogleSans ThinItalic';
+    src: url('../fonts/GoogleSans-ThinItalic.ttf');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GoogleSans Medium';
+    src: url('../fonts/GoogleSans-Medium.ttf');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GoogleSans MediumItalic';
+    src: url('../fonts/GoogleSans-MediumItalic.ttf');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GoogleSans Bold';
+    src: url('../fonts/GoogleSans-Bold.ttf');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GoogleSans BoldItalic';
+    src: url('../fonts/GoogleSans-BoldItalic.ttf');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GoogleSans Light';
+    src: url('../fonts/GoogleSans-Light.ttf');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GoogleSans LightItalic';
+    src: url('../fonts/GoogleSans-LightItalic.ttf');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GoogleSans Black';
+    src: url('../fonts/GoogleSans-Black.ttf');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GoogleSans BlackItalic';
+    src: url('../fonts/GoogleSans-BlackItalic.ttf');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+/*#endregion*/

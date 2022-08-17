@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="74.163" viewBox="0 0 80 74.163">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.256" y1="0.807" x2="1.1" y2="0.262" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#72cc72"/>
+      <stop offset="1" stop-color="#348044"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_40825" data-name="Group 40825" transform="translate(-1071 -5267.497)">
+    <path id="Path_71412" data-name="Path 71412" d="M48.935,0H18.129a2.725,2.725,0,0,0-2.36,1.363L.365,28.042a2.725,2.725,0,0,0,0,2.725l15.4,26.68a2.725,2.725,0,0,0,2.36,1.363H48.935a2.725,2.725,0,0,0,2.36-1.363l15.4-26.68a2.725,2.725,0,0,0,0-2.725L51.3,1.363A2.725,2.725,0,0,0,48.935,0Z" transform="matrix(0.966, -0.259, 0.259, 0.966, 1071, 5284.854)" fill="url(#linear-gradient)"/>
+    <g id="Group_40084" data-name="Group 40084" transform="translate(1097.464 5292.894)">
+      <g id="Path_11468" transform="translate(5.293 3.837)">
+        <g id="Group_11053" data-name="Group 11053" transform="translate(0)">
+          <g id="Group_11052" data-name="Group 11052">
+            <g id="Group_11051" data-name="Group 11051">
+              <g id="Group_11050" data-name="Group 11050">
+                <path id="Path_12115" data-name="Path 12115" d="M48.631,19.262a4.631,4.631,0,1,1,4.631-4.631,4.688,4.688,0,0,1-4.631,4.631Zm0-7.939a3.308,3.308,0,1,0,3.308,3.308A3.276,3.276,0,0,0,48.631,11.323Z" transform="translate(-44 -10)" fill="#fff"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_9679" transform="translate(0 12.57)">
+        <g id="Path_11469" transform="translate(0 0)">
+          <g id="Group_11057" data-name="Group 11057">
+            <g id="Group_11056" data-name="Group 11056">
+              <g id="Group_11055" data-name="Group 11055">
+                <g id="Group_11054" data-name="Group 11054">
+                  <path id="Path_12116" data-name="Path 12116" d="M49.924,27.715c-4.234,0-9.924,0-9.924-4.631,0-2.646,1.985-5.161,5.161-6.351l.4-.132.265.265a5.923,5.923,0,0,0,8.072,0l.265-.265.4.132c3.176,1.323,5.161,3.7,5.161,6.351C59.848,27.715,54.158,27.715,49.924,27.715Zm-4.631-9.659c-2.514,1.059-3.97,3.043-3.97,5.028,0,2.779,2.911,3.308,8.6,3.308s8.6-.529,8.6-3.308c0-1.985-1.456-3.97-3.97-5.028A7.2,7.2,0,0,1,45.293,18.056Z" transform="translate(-40 -16.6)" fill="#fff"/>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_9681" transform="translate(12.041 0)">
+        <g id="Path_11470" transform="translate(0 0)">
+          <g id="Group_11061" data-name="Group 11061">
+            <g id="Group_11060" data-name="Group 11060">
+              <g id="Group_11059" data-name="Group 11059">
+                <g id="Group_11058" data-name="Group 11058">
+                  <path id="Path_12117" data-name="Path 12117" d="M56.775,20.067l-3.44-2.779.794-.926,1.985,1.588.4-1.72h4.234a1.752,1.752,0,0,0,1.72-1.72v-4.5a1.961,1.961,0,0,0-1.852-1.72h-8.6a1.6,1.6,0,0,0-1.72,1.72H49.1A2.937,2.937,0,0,1,52.011,7.1h8.6a2.826,2.826,0,0,1,2.911,2.779h0V14.51a2.937,2.937,0,0,1-2.911,2.911H57.3Z" transform="translate(-49.1 -7.1)" fill="#fff"/>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_9683" transform="translate(15.879 5.161)">
+        <g id="Ellipse_1764" transform="translate(0 0)">
+          <g id="Group_11065" data-name="Group 11065">
+            <g id="Group_11064" data-name="Group 11064">
+              <g id="Group_11063" data-name="Group 11063">
+                <g id="Group_11062" data-name="Group 11062">
+                  <circle id="Ellipse_1811" data-name="Ellipse 1811" cx="0.662" cy="0.662" r="0.662" fill="#fff"/>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_9684" transform="translate(18.525 5.161)">
+        <g id="Ellipse_1765" transform="translate(0 0)">
+          <g id="Group_11069" data-name="Group 11069">
+            <g id="Group_11068" data-name="Group 11068">
+              <g id="Group_11067" data-name="Group 11067">
+                <g id="Group_11066" data-name="Group 11066">
+                  <circle id="Ellipse_1812" data-name="Ellipse 1812" cx="0.662" cy="0.662" r="0.662" fill="#fff"/>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_9685" transform="translate(21.171 5.161)">
+        <g id="Ellipse_1766" transform="translate(0 0)">
+          <g id="Group_11073" data-name="Group 11073">
+            <g id="Group_11072" data-name="Group 11072">
+              <g id="Group_11071" data-name="Group 11071">
+                <g id="Group_11070" data-name="Group 11070">
+                  <circle id="Ellipse_1813" data-name="Ellipse 1813" cx="0.662" cy="0.662" r="0.662" fill="#fff"/>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

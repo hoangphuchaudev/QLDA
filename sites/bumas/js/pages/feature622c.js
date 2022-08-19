@@ -6,7 +6,7 @@
         loop: true,
         margin: 0,
         nav: true,
-        navText: ["<img src='/sites/bumas/images/pages/feature/ic-prev-subsidiaries.svg'>", "<img src='/sites/bumas/images/pages/feature/ic-next-subsidiaries.svg'>"],
+        navText: ["<img src='sites/bumas/images/pages/feature/ic-prev-subsidiaries.svg'>", "<img src='sites/bumas/images/pages/feature/ic-next-subsidiaries.svg'>"],
         dots: false,
         autoplay: true,
         smartSpeed: 2000,
@@ -18,7 +18,7 @@
         responsive: {
             1100: {
                 nav: true,
-                navText: ["<img src='/sites/bumas/images/pages/feature/ic-prev-subsidiaries.svg'>", "<img src='/sites/bumas/images/pages/feature/ic-next-subsidiaries.svg'>"],
+                navText: ["<img src='sites/bumas/images/pages/feature/ic-prev-subsidiaries.svg'>", "<img src='sites/bumas/images/pages/feature/ic-next-subsidiaries.svg'>"],
                 dots: false
             },
             0: {
@@ -35,7 +35,7 @@
         loop: true,
         margin: 0,
         nav: true,
-        navText: ["<img src='/sites/bumas/images/pages/feature/ic-prev-subdivisions.svg'>", "<img src='/sites/bumas/images/pages/feature/ic-next-subdivisions.svg'>"],
+        navText: ["<img src='sites/bumas/images/pages/feature/ic-prev-subdivisions.svg'>", "<img src='sites/bumas/images/pages/feature/ic-next-subdivisions.svg'>"],
         dots: false,
         autoplay: true,
         smartSpeed: 2500,
@@ -47,7 +47,7 @@
         responsive: {
             1100: {
                 nav: true,
-                navText: ["<img src='/sites/bumas/images/pages/feature/ic-prev-subsidiaries.svg'>", "<img src='/sites/bumas/images/pages/feature/ic-next-subsidiaries.svg'>"],
+                navText: ["<img src='sites/bumas/images/pages/feature/ic-prev-subsidiaries.svg'>", "<img src='sites/bumas/images/pages/feature/ic-next-subsidiaries.svg'>"],
                 dots: false,
             },
             0: {

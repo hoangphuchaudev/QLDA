@@ -65,7 +65,7 @@ input.btnSendContact, input.btnSendContact:hover, input.btnSendContact:any-link 
     cursor: pointer;
     width: 100%;
     border: none;
-    background: #43a047;
+    background: #00A8F3;
     color: #fff;
     margin-top: 20px;
     font-family: GoogleSans, Arial, sans-serif;
@@ -116,7 +116,7 @@ input.btnSendContact, input.btnSendContact:hover, input.btnSendContact:any-link 
 .c-office {
     font-size: 20px;
     font-family: GoogleSans Bold, Arial, sans-serif;
-    color: #43a047;
+    color: #00A8F3;
     padding-bottom: 15px;
 }
 

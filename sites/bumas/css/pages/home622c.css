@@ -163,7 +163,7 @@
 
     .hb-button a {
         font-family: GoogleSans Medium, Arial, sans-serif;
-        color: #0D6814;
+        color: #2850A7;
         text-transform: uppercase;
         padding: 10px 35px;
         border-radius: 25px;
@@ -303,7 +303,7 @@
 .hi-line {
     width: 150px;
     height: 3px;
-    background: #43a047;
+    background: #00A8F3;
     margin: 0 auto;
 }
 
@@ -318,7 +318,7 @@
 }
 
 .hi-highlight {
-    color: #43a047;
+    color: #00A8F3;
     text-transform: uppercase;
 }
 
@@ -421,7 +421,7 @@
 
 .hv-highlight {
     font-family: GoogleSans Bold, Arial, sans-serif;
-    color: #43a047;
+    color: #00A8F3;
 }
 
 .hvb-left {
@@ -836,7 +836,7 @@
     }
 
     .h-banner .owl-dots .owl-dot.active span {
-        background: #43a047;
+        background: #00A8F3;
     }
     /*#endregion*/
 
@@ -980,7 +980,7 @@
     }
 
     .hb-button a {
-        background: #0D6814;
+        background: #2850A7;
         font-size: 16px;
         color: #FFF;
         padding: 10px 20px;
@@ -997,7 +997,7 @@
     }
 
     .hb-list {
-        color: #43a047;
+        color: #00A8F3;
     }
 
     .hb-banner-2 .hb-list {
@@ -1005,13 +1005,13 @@
     }
 
     .hb-video a {
-        color: #0D6814;
+        color: #2850A7;
         padding: 10px 19px;
         border-radius: 25px;
         overflow: hidden;
         display: inline-flex;
         background: #FFF;
-        border: solid 1px #0D6814;
+        border: solid 1px #2850A7;
         line-height: unset;
         height: unset;
     }

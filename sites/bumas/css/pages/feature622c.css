@@ -85,7 +85,7 @@
 }
 
 .fb-title {
-    color: #43a047;
+    color: #00A8F3;
     font-size: 16px;
     text-transform: uppercase;
     padding-bottom: 10px;
@@ -125,7 +125,7 @@
         border-radius: 25px;
         overflow: hidden;
         display: inline-flex;
-        background-color: #43A047;
+        background-color: #00A8F3;
     }
 
 .fbc-right {
@@ -164,7 +164,7 @@
         display: block;
         font-family: GoogleSans Medium, Arial, sans-serif;
         font-size: 14px;
-        color: #43A047;
+        color: #00A8F3;
     }
 /*#endregion*/
 /*#region Đon vi truc thuoc */
@@ -487,13 +487,13 @@
     }
 
     .fb-video a {
-        color: #43A047;
+        color: #00A8F3;
         padding: 10px 19px;
         border-radius: 25px;
         overflow: hidden;
         display: inline-flex;
         background: #FFF;
-        border: solid 1px #43A047;
+        border: solid 1px #00A8F3;
         line-height: unset;
         height: unset;
     }

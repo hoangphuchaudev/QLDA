@@ -286,7 +286,7 @@ select::-ms-expand {
     height: auto !important;
 }
 
-.h-product-pc {
+/*.h-product-pc {
     cursor: pointer;
     margin-left: 15px;
     padding-bottom: 7px;
@@ -294,9 +294,9 @@ select::-ms-expand {
     background-size: 10px;
     padding-right: 16px;
     user-select: none;
-}
+}*/
 
-    .h-product-pc:after {
+/*    .h-product-pc:after {
         position: absolute;
         content: "";
         width: 15px;
@@ -318,7 +318,7 @@ select::-ms-expand {
         -moz-transition: all .3s linear;
         -o-transition: all .3s linear;
         transition: all .3s linear;
-    }
+    }*/
 
 .h-option-select-product {
     max-width: 155px;

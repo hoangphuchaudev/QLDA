@@ -204,7 +204,7 @@
         }
 
             .support-question-content li a:hover {
-                color: #268D34;
+                color: #00A8F3;
                 opacity: 1;
             }
 
@@ -271,7 +271,7 @@
 }
 
 .btn-question-all:hover::before {
-    background-color: #268D34;
+    background-color: #00A8F3;
     opacity: 1;
     width: 100%;
 }
